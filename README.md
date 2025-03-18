@@ -19,7 +19,7 @@ As a Software Tester, my approach follows this structured process:
 ### **1️⃣ Requirement Analysis**  
 - Understanding the business requirements for the **Event Go - User Application**.  
 - Defining key features: **User Registration, Event Browsing, Ticket Booking, Payment, E-Ticket Delivery, Booking History**.  
-- 📂 **Document:** [`Requirements/EventGo_Requirements.pdf`](Event organaiser Project - User.docx)  
+- 📂 **Document:** [`Requirements/Event_Organizer_Project_User.docx`](Requirements/Event_Organizer_Project_User.docx)  
 
 ---
 
