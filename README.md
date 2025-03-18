@@ -1,5 +1,5 @@
 # 🎯 Event Go - Event User Application Testing Repository  
-
+📂 **Figma Prototype:** [Click here to view Figma Design](https://www.figma.com/proto/BVnETbxz8hZ4Nl3wmxNK8B/Event-Go---User-Model?node-id=12-23&t=icKWMBVi9edEIlgh-0&scaling=contain&content-scaling=fixed&page-id=0%3A1)  
 ## 🏆 About the Project  
 **Event Go** is an event booking application designed for users to explore, book, and manage tickets for various events like **concerts, weddings, corporate gatherings, and private parties**.  
 
@@ -45,4 +45,7 @@ As a Software Tester, my approach follows this structured process:
 
 ---
 
+## 📧 Contact  
+For any queries, feel free to reach out at **dandaladinakar007@gmail.com**.  
+Happy Testing! 🚀  
 
