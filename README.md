@@ -33,7 +33,7 @@ As a Software Tester, my approach follows this structured process:
 ### **3️⃣ UI/UX Design Validation (Figma Review)**  
 - Evaluating the **Figma Designs** for usability, consistency, and compliance with requirements.  
 - Ensuring **mobile & web UI components** align with business needs.  
-- 📂 **File:** [Figma Designs]([Designs/EventGo_Figma_Designs.pdf](https://www.figma.com/proto/BVnETbxz8hZ4Nl3wmxNK8B/Event-Go---User-Model?node-id=12-23&t=icKWMBVi9edEIlgh-0&scaling=contain&content-scaling=fixed&page-id=0%3A1))  
+- - 📂 **Figma Prototype:** [Click here to view Figma Design](https://www.figma.com/proto/BVnETbxz8hZ4Nl3wmxNK8B/Event-Go---User-Model?node-id=12-23&t=icKWMBVi9edEIlgh-0&scaling=contain&content-scaling=fixed&page-id=0%3A1)  
 
 ---
 
