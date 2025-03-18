@@ -33,7 +33,7 @@ As a Software Tester, my approach follows this structured process:
 ### **3️⃣ UI/UX Design Validation (Figma Review)**  
 - Evaluating the **Figma Designs** for usability, consistency, and compliance with requirements.  
 - Ensuring **mobile & web UI components** align with business needs.  
-- 📂 **File:** [Figma Designs](Designs/EventGo_Figma_Designs.pdf)  
+- 📂 **File:** [Figma Designs]([Designs/EventGo_Figma_Designs.pdf](https://www.figma.com/proto/BVnETbxz8hZ4Nl3wmxNK8B/Event-Go---User-Model?node-id=12-23&t=icKWMBVi9edEIlgh-0&scaling=contain&content-scaling=fixed&page-id=0%3A1))  
 
 ---
 
@@ -45,13 +45,4 @@ As a Software Tester, my approach follows this structured process:
 
 ---
 
-### **5️⃣ Test Execution & Defect Management**  
-- Running test cases across different devices, browsers, and environments.  
-- Logging defects and tracking their resolution.  
-- Using tools like **Selenium, Postman, JMeter, GitHub Issues** for automation, API, and performance testing.  
-- 📂 **Defect Reports:** [Defects/EventGo_Defect_Report.xlsx](Defects/EventGo_Defect_Report.xlsx)  
 
----
-
-## 🚀 How to Use This Repository  
-1. **Clone the repository**:  
