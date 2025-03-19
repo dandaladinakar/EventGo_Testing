@@ -59,3 +59,8 @@ For any queries, feel free to reach out at
 
 Happy Testing! 🚀  
 
+## Accessing the Requirements Documentation
+
+If you need the requirements, you can **download the documentation** or **check the Wiki tab** for more details.
+
+
