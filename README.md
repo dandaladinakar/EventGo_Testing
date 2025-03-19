@@ -63,8 +63,6 @@ Happy Testing! 🚀
 
 If you need the requirements, you can [![GitHub Documentation](https://img.shields.io/badge/GitHub%20Documentation-%23007ACC.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dandaladinakar/EventGo_Testing/blob/main/Event%20organaiser%20Project%20-%20User.docx)
  **or** 
-[![GitHub Wiki](https://img.shields.io/badge/GitHub%20Wiki-28a745.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dandaladinakar/EventGo_Testing/wiki)
-
- for more details.
+[![GitHub Wiki](https://img.shields.io/badge/GitHub%20Wiki-28a745.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dandaladinakar/EventGo_Testing/wiki)  for more details.
 
 
