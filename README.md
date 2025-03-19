@@ -61,7 +61,9 @@ Happy Testing! 🚀
 
 ## Accessing the Requirements Documentation
 
-If you need the requirements, you can **download the documentation** or [![GitHub Wiki](https://img.shields.io/badge/GitHub%20Wiki-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dandaladinakar/EventGo_Testing/wiki)
+If you need the requirements, you can **download the documentation** **or** 
+[![GitHub Wiki](https://img.shields.io/badge/GitHub%20Wiki-28a745.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dandaladinakar/EventGo_Testing/wiki)
+
  for more details.
 
 
